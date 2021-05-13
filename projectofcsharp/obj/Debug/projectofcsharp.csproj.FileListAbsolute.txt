@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\projectofcsharp\projectofcsharp\bin\Debug\projectofcsharp.exe.config
+C:\Users\Dell\source\repos\projectofcsharp\projectofcsharp\bin\Debug\projectofcsharp.exe
+C:\Users\Dell\source\repos\projectofcsharp\projectofcsharp\bin\Debug\projectofcsharp.pdb
+C:\Users\Dell\source\repos\projectofcsharp\projectofcsharp\obj\Debug\projectofcsharp.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\projectofcsharp\projectofcsharp\obj\Debug\projectofcsharp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\projectofcsharp\projectofcsharp\obj\Debug\projectofcsharp.exe
+C:\Users\Dell\source\repos\projectofcsharp\projectofcsharp\obj\Debug\projectofcsharp.pdb
